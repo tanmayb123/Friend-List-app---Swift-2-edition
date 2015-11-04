@@ -1,4 +1,4 @@
-NOTE: THIS IS JUST A NEWER VERSION FOR XCODE 6.3! THERE ARE NO CHANGES IN FEATURES OF THE APP.
+NOTE: THIS IS JUST A NEWER VERSION FOR XCODE 7.2 Beta 1 (Swift 2.2)! THERE ARE NO CHANGES IN FEATURES OF THE APP.
 
 This is the code (PHP & Swift/iOS end) for the iOS database connectivity App I created earlier.
 
